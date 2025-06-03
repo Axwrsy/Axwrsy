@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Bem-vinda(o) ao meu GitHub!</h1>
+
 <p align="center">👩‍💻 Estudante de Engenharia da Computação | Técnica em Desenvolvimento de Sistemas | Foco em Automação e Backend</p>
 
 ---
