@@ -3,7 +3,7 @@
 
 ---
 
-### 👋 Sobre mim
+###  Sobre mim
 
 - 🎓 Cursando **Engenharia da Computação**
 - 🧪 Técnica em **Desenvolvimento de Sistemas – SENAI**
@@ -13,7 +13,7 @@
 
 ---
 
-### 💻 Tecnologias que uso
+###  Tecnologias que uso
 
 #### Linguagens
 <p align="left">
@@ -35,7 +35,7 @@
 
 ---
 
-### ⚙️ Interesses
+###  Interesses
 
 - 🧠 Automação de processos com Python
 - 🔌 Integração com hardware (ex: Arduino, sensores, etc)
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Axwrsy&show_icons=true&theme=tokyonight" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📫 Contato
+###  Contato
 
 - ✉️ Email: annasantos4530@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anacsdp777/)  
