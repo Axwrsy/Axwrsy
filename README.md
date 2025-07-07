@@ -1,15 +1,15 @@
 
-<p align="center">👩‍💻 Estudante de Engenharia da Computação | Técnica em Desenvolvimento de Sistemas | Foco em Automação e Backend</p>
+<p align="center"> Estudante de Engenharia da Computação | Técnica em Desenvolvimento de Sistemas | Foco em Automação e Backend</p>
 
 ---
 
 ###  Sobre mim
 
-- 🎓 Cursando **Engenharia da Computação**
-- 🧪 Técnica em **Desenvolvimento de Sistemas – SENAI**
-- 🚂 **Programadora na CPTM**
-- 🧠 Apaixonada por **sistemas embarcados**, **hardware**, **protocolos de comunicação** e **backend**
-- 🔍 Explorando o mundo da **integração entre software e hardware**
+-  Cursando **Engenharia da Computação**
+-  Técnica em **Desenvolvimento de Sistemas – SENAI**
+-  **Programadora na CPTM**
+-  Apaixonada por **sistemas embarcados**, **hardware**, **protocolos de comunicação** e **backend**
+-  Explorando o mundo da **integração entre software e hardware**
 
 ---
 
@@ -37,10 +37,10 @@
 
 ###  Interesses
 
-- 🧠 Automação de processos com Python
-- 🔌 Integração com hardware (ex: Arduino, sensores, etc)
-- 📦 Desenvolvimento de backends simples
-- 🛰️ Redes, protocolos e segurança da informação
+-  Automação de processos com Python
+-  Integração com hardware (ex: Arduino, sensores, etc)
+-  Desenvolvimento de backends simples
+-  Redes, protocolos e segurança da informação
 
 
 ---
