@@ -39,7 +39,7 @@
 
 -  Automação de processos com Python
 -  Integração com hardware (ex: Arduino, sensores, etc)
--  Desenvolvimento de backends simples
+-  Desenvolvimento de backends 
 -  Redes, protocolos e segurança da informação
 
 
