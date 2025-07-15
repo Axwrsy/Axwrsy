@@ -38,7 +38,7 @@
 ###  Interesses
 
 -  Automação de processos com Python
--  Integração com hardware (ex: Arduino, sensores, etc)
+-  Integração com hardware (Arduino, sensores, etc)
 -  Desenvolvimento de backends 
 -  Redes, protocolos e segurança da informação
 
