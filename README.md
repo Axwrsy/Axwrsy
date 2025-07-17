@@ -53,7 +53,6 @@
 </p>
 
 
-![Pacman GitHub Contributions](https://gh-pacman.vercel.app/?user=axwrsy)
 
 
 
