@@ -61,10 +61,14 @@
 ---
 
 ###  Contato
-
-- ✉️ Email: annasantos4530@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anacsdp777/)  
-
+<p align="center">
+  <a href="mailto:annasantos4530@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-annasantos4530@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anacsdp777/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
