@@ -64,16 +64,13 @@
 ## Principais projetos
 
 - **Análise de vulnerabilidades** —  Protótipo educativo de teste de vulnerabilidades.
-
-   ([repositório])(https://github.com/Axwrsy/AnaliseVulnerabilidades)  
+   [repositório](https://github.com/Axwrsy/AnaliseVulnerabilidades)  
  
 - **Agenda de contatos** — Programa de terminal para gerenciar contatos usando Python e PostgreSQL.
-  
-  ([repositório])(https://github.com/Axwrsy/AgendaContatos)
+  [repositório](https://github.com/Axwrsy/AgendaContatos)
 
 - **Projeto ERP** — projeto erp simples, onde o usuário consegue monitorar um estoque.
-- 
-  ([repositório])(https://github.com/Axwrsy/ERP/tree/feature/-v5)
+  [repositório](https://github.com/Axwrsy/ERP/tree/feature/-v5)
 
 ---
 
