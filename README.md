@@ -61,6 +61,20 @@
 
 ---
 
+## Principais projetos
+
+- **Análise de vulnerabilidades** — protótipo educativo de teste de vulnerabilidades 
+   [repositório](https://github.com/Axwrsy/AnaliseVulnerabilidades)  
+ 
+- **Agenda de contatos** — Programa de terminal para gerenciar contatos usando Python e PostgreSQL.  
+  [repositório](https://github.com/Axwrsy/AgendaContatos)
+
+- **Projeto ERP** — projeto erp simples, onde o usuário consegue monitorar um estoque  
+  [repositório](https://github.com/Axwrsy/ERP/tree/feature/-v5)
+
+---
+
+
 ###  Contato
 <p align="center">
   <a href="mailto:annasantos4530@gmail.com" target="_blank">
