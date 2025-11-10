@@ -63,8 +63,8 @@
 
 ## Principais projetos
 
-- **Análise de vulnerabilidades** —  Protótipo educativo de teste de vulnerabilidades.|
-   [repositório](https://github.com/Axwrsy/AnaliseVulnerabilidades)  
+- **CoinGecko** —  Interface web com bootstrap que exibe detalhes sobre as principais criptos.|
+   [repositório](https://github.com/Axwrsy/CoinGecko)  
  
 - **Agenda de contatos** — Programa de terminal para gerenciar contatos usando Python e PostgreSQL.|
   [repositório](https://github.com/Axwrsy/AgendaContatos)
