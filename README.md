@@ -8,7 +8,6 @@
 -  Cursando **Engenharia da Computação**
 -  Técnica em **Desenvolvimento de Sistemas – SENAI**
 -  **Programadora na CPTM**
--  Apaixonada por **sistemas embarcados**, **hardware**, **protocolos de comunicação** e **backend**
 -  Explorando o mundo da **integração entre software e hardware**
 
 ---
