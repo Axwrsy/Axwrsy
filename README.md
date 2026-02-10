@@ -68,7 +68,7 @@
 - **Agenda de contatos** — Programa de terminal para gerenciar contatos usando Python e PostgreSQL.|
   [repositório](https://github.com/Axwrsy/AgendaContatos)
 
-- **Projeto ERP** — projeto erp simples, onde o usuário consegue monitorar um estoque|
+- **Projeto ERP** — Projeto erp simples, onde o usuário consegue monitorar um estoque|
   [repositório](https://github.com/Axwrsy/ERP/tree/feature/v9))
 
 ---
