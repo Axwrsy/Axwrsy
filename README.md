@@ -69,7 +69,7 @@
   [repositório](https://github.com/Axwrsy/AgendaContatos)
 
 - **Projeto ERP** — Projeto erp simples, onde o usuário consegue monitorar um estoque|
-  [repositório](https://github.com/Axwrsy/ERP))
+  [repositório](https://github.com/Axwrsy/ERP)
 
 - **Agenda de contatos** — Desenvolvido com o objetivo de praticar os conceitos de MVC e CRUD|
   [repositório](https://github.com/Axwrsy/AgendadeContatos)
